@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;ex01.Fore01.java&apos; to &apos;ForEX01.java&apos;&#x0D;&#x0A;- Original project: &apos;java20251024_반복문&apos;&#x0D;&#x0A;- Original element: &apos;ex01.Fore01.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ex01.ForEX01.java&apos;" description="Rename compilation unit &apos;Fore01.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ex01{Fore01.java" name="ForEX01.java" references="false" stamp="1761275191040" version="1.0"/>
+</session>

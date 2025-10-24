@@ -1,0 +1,18 @@
+package ex01;
+
+/*
+ * ++A : 선위 연산자(증감)
+ * B++ : 후위 연산자 
+ * --A : 감소
+ * B--
+ */
+
+public class 증감연산자 {
+
+	public static void main(String[] args) {
+		
+		int iNum = 10;
+		System.out.println(iNum);
+	}
+
+}
