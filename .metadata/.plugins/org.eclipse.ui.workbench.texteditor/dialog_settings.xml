@@ -2,9 +2,10 @@
 <section name="Workbench">
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<section name="java.lang.Class">
-		<item key="selection" value="package ex02;"/>
+		<item key="selection" value="package ex04;"/>
 		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
+			<item value="package ex04;"/>
 			<item value="package ex02;"/>
 			<item value="학점"/>
 		</list>
