@@ -1,5 +1,5 @@
 package ex05;
-
+  //inf learn 김영한강의 들어보기
 import java.util.function.Function;
 
 public class PayMain {
@@ -20,7 +20,7 @@ public class PayMain {
      func(new CrediCard(),5000);
      
 	}
-	public void func(Payment p, int money) {
+	public static void func(Payment p, int money) {
 		p.pay(money);
 	}
 }
