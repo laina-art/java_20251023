@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex01연습문제.Person"/>
-    <fullyQualifiedTypeName name="ex01.BClass"/>
-    <fullyQualifiedTypeName name="ex03.Action"/>
-    <fullyQualifiedTypeName name="ex03.Archer"/>
-    <fullyQualifiedTypeName name="ex03.Warrior"/>
-    <fullyQualifiedTypeName name="ex04.CrediCard"/>
-    <fullyQualifiedTypeName name="ex04.SamsungPay"/>
-    <fullyQualifiedTypeName name="ex05.KakaoPay"/>
-    <fullyQualifiedTypeName name="java.time.temporal.TemporalAmount"/>
-    <fullyQualifiedTypeName name="ex05.SamsungPay"/>
-    <fullyQualifiedTypeName name="ex05.Payment"/>
-    <fullyQualifiedTypeName name="java.util.function.Function"/>
-    <fullyQualifiedTypeName name="ex06_1_상속.Car"/>
-    <fullyQualifiedTypeName name="ex06_1_상속.ElectricCar"/>
-    <fullyQualifiedTypeName name="ex06_2_다형성.Car"/>
-    <fullyQualifiedTypeName name="ex06_2_다형성.ElectricCar"/>
-    <fullyQualifiedTypeName name="javax.swing.text.TabStop"/>
-    <fullyQualifiedTypeName name="ex06_4_인터페이스.GasCar"/>
     <fullyQualifiedTypeName name="java.time.Year"/>
     <fullyQualifiedTypeName name="java.awt.Window.Type"/>
     <fullyQualifiedTypeName name="java.security.PrivateKey"/>
@@ -43,7 +25,6 @@
     <fullyQualifiedTypeName name="ex01.Shape"/>
     <fullyQualifiedTypeName name="ex01.Rectangle"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="int"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="ex01.ExceptionEx01"/>
@@ -54,10 +35,29 @@
     <fullyQualifiedTypeName name="ex02.Box"/>
     <fullyQualifiedTypeName name="ex03.Person"/>
     <fullyQualifiedTypeName name="ex03.AlbaStudent"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="javax.lang.model.element.NestingKind"/>
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
     <fullyQualifiedTypeName name="ex02.Vehicle"/>
     <fullyQualifiedTypeName name="ex02.Car"/>
     <fullyQualifiedTypeName name="javax.management.remote.SubjectDelegationPermission"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.ls.LSException"/>
+    <fullyQualifiedTypeName name="java.time.chrono.IsoChronology"/>
+    <fullyQualifiedTypeName name="ex01.ArrayList"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+    <fullyQualifiedTypeName name="ex03.StackQueueEx01"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicInternalFrameTitlePane.IconifyAction"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="int"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ex05.ArraysAsList"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.PrinterInfo"/>
 </qualifiedTypeNameHistroy>
